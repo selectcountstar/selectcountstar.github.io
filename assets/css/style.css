@@ -183,7 +183,7 @@ body {
 .navbar-nav .nav-item {
 	margin-right: 0;
 	margin-top: 1.5rem;
-	font-size: 0.85rem;
+	font-size: 1.0rem;
 	font-weight: 400;
   text-transform: capitalize;
   color: #563D7C;
@@ -212,6 +212,10 @@ body {
 
 .nav-white .navbar-brand {
 	color: #FFFFFF;
+}
+
+.dropdown .dropdown-item {
+	margin: 15px 0;
 }
 
 @media only screen and (max-width: 768px) {
@@ -1572,7 +1576,7 @@ body {
 	.navbar-nav .nav-item {
 		margin-top: 0;
 		margin-right: 15px;
-	  font-size: 0.85rem;
+	  font-size: 1.0rem;
 	  font-weight: 400;
 	}
 
@@ -1758,7 +1762,7 @@ body {
 }
 
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 992px) {
 
 	.hero img {
 		margin-top: 0;
@@ -1793,6 +1797,38 @@ body {
 
 	#response {
 		left: 0;
+	}
+
+}
+
+@media only screen and  (max-width: 767px) {
+
+    .navbar-collapse {
+        position: absolute;
+        top: 54px;
+        right: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 15px;
+        width: 100%;
+        transition: all 0.3s ease;
+        display: block;
+    }
+    .navbar-collapse.collapsing {
+        height: auto !important;
+        margin-right: 50%;
+        transition: all 0.3s ease;
+        display: block;
+    }
+    .navbar-collapse.show {
+        right: 0;
+    }
+
+
+	.nav-item {
+		margin: 0.2rem 3rem;
+	    font-size: 1.0rem;
+	    text-align: left;
 	}
 
 }

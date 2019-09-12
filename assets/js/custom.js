@@ -51,20 +51,6 @@ jQuery(function($) {
     });
 
 
-    /*-------- Owl Carousel ---------- */
-
-      $(".review-cards").owlCarousel({
-        slideSpeed: 200,
-        items: 1,
-        singleItem: true,
-        autoplay:true,
-        autoplayTimeout:2000,
-        autoplayHoverPause:true,
-        pagination: false,
-      });
-
-
-
   /* ------ jQuery for Easing min -- */
   (function($) {
     "use strict"; // Start of use strict
@@ -95,19 +81,6 @@ jQuery(function($) {
     });
 
   })(jQuery); // End of use strict
-
-
-/* --------- Wow Init ------ */
-
-  new WOW().init();
-
-
-  /* ----- Counter Up ----- */
-
-$('.counter').counterUp({
-		delay: 10,
-		time: 1000
-});
 
 /*----- Preloader ----- */
 
