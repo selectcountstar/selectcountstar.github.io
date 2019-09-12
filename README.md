@@ -20,8 +20,8 @@ and medium enterprise. The complexity is related to four aspects.
 3) Integration and setup of the data pipelines  
 4) Everything else: CI/CD, Security, DTAP, Logging etc  
 
-We help you by taking care of those aspects. So you can focus on what's really
-important for your business.
+We help you by taking care of those aspects.   
+So you can focus on what's really important for your business.
 
 ### Engineering Services
 
@@ -197,7 +197,7 @@ materialized table (for fast access on postgres, elastic, redis).
 
 ## Solutions
 
-Solutions Our solutions are flexible and can be applied in a number of domains.
+Our solutions are flexible and can be applied in a number of domains.   
 Please contact us for any demo!
 
 ### Data Engineering
@@ -211,22 +211,82 @@ scripts for gitlab CI/CD and airflow.
 
 #### ETL and BI
 
-
+We have templates to speed up the creation of your star schema. And automated
+methods to join your tables, including the elusive Slow Changing Dimension
+patterns. Help generating highly efficient representation from your data sources
+running a AI and ML powered table analysis, and suggesting efficient table join
+sequences.
 
 #### Data Publishing
 
+Save Fact and Dimension table in format which can be quickly and efficiently
+consumed by your BI applications. Provide security and Role and Resource Bases
+Access Control for your published Fact tables and Star Schema
+
+Provide template to publish and validate saved data on a variety of target
+platforms such as ClickHouse, Elastic, Postgres as well as bespoken OLAP cloud
+services such as BigQuery, and SnowFlake.
+
 ### Machine Learning
+
 #### Sales Forecasting
+
+We have build a flexible and customizable RESTfull API service to produce high
+quality timeserie forecasting for your sales, marketing, inventory, visit
+budgeting needs.  
+
 #### Product Basket and Browsing Analysis
+
+Sophisticated re-targetable data analytics solution to explore graph data.
+Another great template which is ready to use to analyze popularity and most
+common selected products or visited pages, using ML graph analytical techniques
+such as PageRank and FPGrowth.
 
 ### Artificial Intelligence
 #### Customer&Product Segmentation
+
+We have a ready-to-use AI API and Web App for Customer and Product segmentation
+based to a novel autoembedding engine written in tensorflow. Call us to know
+more about this great demo!
+
 #### Content/Collaborative Recommender System
+
+Recommeder Systems are probably one of the most important application of machine
+learning for Retail, but also for many other domains such as Marketing, HR,
+Sales, Promotional Campaigns etc.
+
+We have built many recommenders using both traditional ML and Statistic
+techniques as well as models using very sophisticated Natural Language
+Processing AI engines. Interested? Book a demo with us!
+
 #### Multi-Objective Marketing Campaign
 
+You have probably have heard of A/B testing. But what if you have 10s or 100s of
+different marketing strategies? How are you going to optimally select those
+which are more effective and still keep exploring the others?
+
+We are experienced with Reinforcement Learning Techniques for managing a large
+number of diverse (even conflicting) marketing recommendation strategies. Please
+take contact with us understand more about this demo.
+
 ### Streaming Computing
-#### Anomaly Detection
 #### Real-time BI Analytics
+
+More and more often business decision must be taken fast rather than waiting on
+reporting with days or week long cycles. We have extensive expertise in building
+streaming analytics solutions in a varienty of platforms (Spark, Kafka, Elastic,
+Flink/Beam)
+
+#### Outlier Detection
+
+Two use cases:
+ - Catch cheating/fraud in your service usage or in your product sales.  
+ - Ride promotions and adjust rates and discounts for burst sales in your products  
+
+For both this use cases you need streaming analytics and in particular outlier
+detection. These solutions range from simple statistical analysis to
+sophisticated deep learning models. Let us show you a demo on how to build a
+robust streaming outlier processing pipeline.
 
 # Partnerships
 We are part of a vibrant Open Source and Open Core ecosystem.  
@@ -239,8 +299,6 @@ Currently, on going partnerships with:
 
 ## Meet the team
 
-Founders
-
 Natalino Busa
 Hien Mai
 
@@ -249,8 +307,8 @@ VN Life Singapore
 
 ## We are Hiring!
 
-### Data Dev-Ops
-### Data Pipeline Engineers
-### Data Streaming Engineers
-### API Developers
-### Front-End Developers
+#### Data Dev-Ops
+#### Data Pipeline Engineers
+#### Data Streaming Engineers
+#### API Developers
+#### Front-End Developers
