@@ -288,7 +288,7 @@ detection. These solutions range from simple statistical analysis to
 sophisticated deep learning models. Let us show you a demo on how to build a
 robust streaming outlier processing pipeline.
 
-# Partnerships
+## Partnerships
 We are part of a vibrant Open Source and Open Core ecosystem.  
 Currently, on going partnerships with:
 
@@ -305,7 +305,17 @@ Hien Mai
 Investors
 VN Life Singapore
 
-## We are Hiring!
+## Call for action!
+
+### We like to solve problems
+
+Are you managing a data team and need help?
+Contact us! We are available, ready to tackle your ideas!
+
+### We are hiring!
+
+Are you a passionate and telented software engineer?  
+Join us! Not a dull day, we promise!
 
 #### Data Dev-Ops
 #### Data Pipeline Engineers
