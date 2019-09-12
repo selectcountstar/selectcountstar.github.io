@@ -13,26 +13,43 @@ Visit http://selectcountstar.github.io
 
 Data analytics pipelines are a complex endevour. And as such are a time
 a consuming activity both for the corporate departments as well as for the small
-and medium enterprise. The complexity is related to three aspects.  
+and medium enterprise. The complexity is related to four aspects.  
 
 1) Selection of the right set of data analytics components  
 2) Configuration of each data component    
 3) Integration and setup of the data pipelines  
 4) Everything else: CI/CD, Security, DTAP, Logging etc  
 
+We help you by taking care of those aspects. So you can focus on what's really
+important for your business.
+
+### Engineering Services
+
 What if someone could lift this work from you and already deliver you the
 platform you need? This is exactly what we do at SELECT COUNT(\*). We provide to
 you tested, secured and ready-to-use data environments, and guide you in the
 process of extracting information and generating ideas fast from your data.
 
-We have made the setup of a data lab a simple process through a friendly UI
-tour, which will provide guide you through the process of selecting the best
-setup according to the goal of your domain (retail, telecom, banking, fintech,
-marketing, logistics)
+### Partners with Google GCP, Confluent, Elastic, Databricks
 
-We believe that data analysts should not wait for months before having the
-chance to dig in the data, and we believe that data engineers and devops can be
-be more productive by jump starting their configuration using our templates.
+Need expertise to fine tune your data architecture to your needs? We have
+certified engineers and architects which will help you solving and selecting the
+right components for your pipelines. We do this in partnership with Confluent
+(kafka), Elastic (elasticsearch, kibana), Databricks (Spark), and Google GCP.
+
+### Databox: a configurable all-in-one datalab-in-a-box
+
+Next to our engineering services, we have designed a web application to help you
+configure and deploy a data lab through a friendly UI tour. This app will help
+you select the best components and configuration for your specific domain
+requirements (retail, telecom, banking, fintech, marketing, logistics)
+
+### Focus on what's important
+
+Simplicity is definitely the ultimate sophistication. We believe that data
+analysts should not wait for months before having the chance to dig in the data,
+and we believe that data engineers and dev-ops can be be more productive by jump
+starting their configuration using our templates and services
 
 ## workshops
 
@@ -65,10 +82,16 @@ Ingestion, Data Modeling, Data Science, Data Engineering, Data Integration at
 your premises.
 
 We also offer consultancy on Spark, Airflow, Cassandra, Redis, Min.io,
-ElasticSearch, Logstash, Kibana, Kafka.
+ElasticSearch, Logstash, Kibana, Kafka. Need help? Call us now and we will bring
+the expertise you need to configure those components correctly and build
+bespoken application and use-cases with it.
 
 Fancy migrating your Data Architecture to the cloud?
 We are Google GCP partners, and part of the Google Developer Experience program.
+
+Don't know how to setup your streaming analytics for marketing rewards or your
+real-time fraud detection engine? We are Confluent partners and experience with
+Streaming SQL solutions.
 
 ## Products
 ### databox
@@ -124,14 +147,72 @@ Databox "Cloud"
 
 ### Dataloof
 
-Solutions Our solutions are flexible and can be applied in a number of domains.
-Please contact us for any demo!
+Dataloof a high productivity open-source python package for data engineering
+which will seriously speed up the coding of your data pipelines. Here is a list
+of high-level benefits you gain by using this package:
+
+#### For Data Ops:
+Quickly instantiate effective and tested data engineering
+templates for Data Ingestion, ETL, Data Preparation, Data Science, etc.
+
+Access and use seemlessly multiple data computing engines (spark, dask, cudf,
+flink, pandas), using the same programming style for data processing and data
+preparation.
+
+Connect to multiple data storage services, databases, object stores with ease,
+just by defining a few connectivity parameters.
+
+Define all your data resources, data service providers, configuration and
+run-time variables, DTAP profiles, engine and logging configuration with yaml
+files.
+
+Provide a simple and intuitive way to log your data pipelines via mutliple
+channels such as files, syslog, kafka, mlflow, tensorboard.
+
+#### For Data Engineers:
+
+Simplify your data ingestion, and code data ingestion including logging, and
+data quality checks in just a few lines of code.
+
+Provide a simple way to load, transform and save data, using multiple formats,
+encoding and compression techniques. Add data transformations, such as
+filtering, feature engineering, anomaly detection and clustering with just a few lines
+of code.
+
+Explore data visually using a number of very rich visualization (facets, column
+statistics, embeddings) directly via a webapp or via directly in your jupyter
+notebook.
+
+Perform data aggregation and user/customer/product profiling in just a few lines
+of code. Perfom clustering and Exploratory Data Analysis on profiles, to
+validate your business intuitions.
+
+#### For ML engineers:
+
+Provide a simple way to extra clusters, segments, anomalies from your data.
+Quickly generate base models for classification, forecasting, recommenders.
+
+Save the results either as a model (for dynamic predictive APIs) or as a
+materialized table (for fast access on postgres, elastic, redis).
 
 ## Solutions
 
+Solutions Our solutions are flexible and can be applied in a number of domains.
+Please contact us for any demo!
+
 ### Data Engineering
 #### Data Ingestion
+
+Simple to configure and template-based ingestion, including Reliability
+Engineering practices, such as data quality monitoring, ingestion continuous
+logging, and DTAP profiles. We have a solution to quickly generate high quality
+and reproducable ingestion pipelines fully tested with CI/CD configuration
+scripts for gitlab CI/CD and airflow.
+
 #### ETL and BI
+
+
+
 #### Data Publishing
 
 ### Machine Learning
@@ -145,7 +226,16 @@ Please contact us for any demo!
 
 ### Streaming Computing
 #### Anomaly Detection
-#### Streaming: Real-time BI Analytics
+#### Real-time BI Analytics
+
+# Partnerships
+We are part of a vibrant Open Source and Open Core ecosystem.  
+Currently, on going partnerships with:
+
+ - Google Cloud (GCP program)
+ - Confluent (Kafka, KSQL)
+ - Elastic (Elasticsearch, Kibana)
+ - Databricks (Spark)
 
 ## Meet the team
 
@@ -158,3 +248,9 @@ Investors
 VN Life Singapore
 
 ## We are Hiring!
+
+### Data Dev-Ops
+### Data Pipeline Engineers
+### Data Streaming Engineers
+### API Developers
+### Front-End Developers
