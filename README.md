@@ -1,13 +1,15 @@
 # SELECT COUNT(\*)
 
 It's a data engineering company.  
-Bootstrap data clusters and applications, from single laptop to multi-node.  
+We help you bootstrap and mantain your data clusters and applications, from single laptop to multi-node.  
+
 Jump start your data experience with our templates.
 Fully isolated, DataLabs-in-a-box for your team.
 
 ## About
+
 This README defines the mission, vision and offerings of SELECT COUNT(\*)  
-Visit http://selectcountstar.github.io
+Visit <http://selectcountstar.github.io>
 
 ## Approach
 
@@ -16,11 +18,11 @@ a consuming activity both for the corporate departments as well as for the small
 and medium enterprise. The complexity is related to four aspects.  
 
 1) Selection of the right set of data analytics components  
-2) Configuration of each data component    
+2) Configuration of each data component  
 3) Integration and setup of the data pipelines  
 4) Everything else: CI/CD, Security, DTAP, Logging etc  
 
-We help you by taking care of those aspects.   
+We help you by taking care of those aspects.  
 So you can focus on what's really important for your business.
 
 ### Engineering Services
@@ -45,15 +47,14 @@ you select the best components and configuration for your specific domain
 requirements (retail, telecom, banking, fintech, marketing, logistics)
 
 ### Focus on what's important
-
-Simplicity is definitely the ultimate sophistication. We believe that data
-analysts should not wait for months before having the chance to dig in the data,
-and we believe that data engineers and dev-ops can be be more productive by jump
-starting their configuration using our templates and services
+Dive into the data analytics straight away. Don't wait up months
+before having your data engineering sorted out. Jump start your data clusters
+using our data templates and data engineering services.
 
 ## workshops
 
 ### "The Ultimate Open Source Data Engineering Demo"
+
 Come and join us for our workshop "The Ultimate Open Source Data Engineering
 Demo". Where we put together and end-to-end pipeline for data analytics,
 customer segmentation using AI and a reccomender system using jupyter lab,
@@ -69,10 +70,10 @@ application. Limited availability to 20 engineers and managers every week.
 Dates:
 
 ### The Ultimate Data Team.
+
 How do you build an effective data team? How you make sure it works fine and has
 the skills to run full data analytics pipelines from reporting to predicting
 APIs? What are the pitfalls and how to avoid them?  
-
 
 ## Consultancy
 
@@ -94,6 +95,7 @@ real-time fraud detection engine? We are Confluent partners and experience with
 Streaming SQL solutions.
 
 ## Products
+
 ### databox
 
 Databox is a template generator to produced fully functional and configurable
@@ -145,13 +147,14 @@ Databox "Rack"
 Databox "Laptop"  
 Databox "Cloud"  
 
-### Dataloof
+### Datafaucet
 
-Dataloof a high productivity open-source python package for data engineering
-which will seriously speed up the coding of your data pipelines. Here is a list
-of high-level benefits you gain by using this package:
+Our open-sourced python library datafaucet is a high productivity collection of
+data engineering tools which will seriously speed up the coding of your data
+pipelines. Here is a list of high-level benefits you gain by using this package:
 
 #### For Data Ops:
+
 Quickly instantiate effective and tested data engineering
 templates for Data Ingestion, ETL, Data Preparation, Data Science, etc.
 
@@ -197,10 +200,11 @@ materialized table (for fast access on postgres, elastic, redis).
 
 ## Solutions
 
-Our solutions are flexible and can be applied in a number of domains.   
+Our solutions are flexible and can be applied in a number of domains.  
 Please contact us for any demo!
 
 ### Data Engineering
+
 #### Data Ingestion
 
 Simple to configure and template-based ingestion, including Reliability
@@ -243,6 +247,7 @@ common selected products or visited pages, using ML graph analytical techniques
 such as PageRank and FPGrowth.
 
 ### Artificial Intelligence
+
 #### Customer&Product Segmentation
 
 We have a ready-to-use AI API and Web App for Customer and Product segmentation
@@ -270,6 +275,7 @@ number of diverse (even conflicting) marketing recommendation strategies. Please
 take contact with us understand more about this demo.
 
 ### Streaming Computing
+
 #### Real-time BI Analytics
 
 More and more often business decision must be taken fast rather than waiting on
@@ -280,8 +286,9 @@ Flink/Beam)
 #### Outlier Detection
 
 Two use cases:
- - Catch cheating/fraud in your service usage or in your product sales.  
- - Ride promotions and adjust rates and discounts for burst sales in your products  
+
+-   Catch cheating/fraud in your service usage or in your product sales.  
+-   Ride promotions and adjust rates and discounts for burst sales in your products  
 
 For both this use cases you need streaming analytics and in particular outlier
 detection. These solutions range from simple statistical analysis to
@@ -289,13 +296,14 @@ sophisticated deep learning models. Let us show you a demo on how to build a
 robust streaming outlier processing pipeline.
 
 ## Partnerships
+
 We are part of a vibrant Open Source and Open Core ecosystem.  
 Currently, on going partnerships with:
 
- - Google Cloud (GCP program)
- - Confluent (Kafka, KSQL)
- - Elastic (Elasticsearch, Kibana)
- - Databricks (Spark)
+-   Google Cloud (GCP program)
+-   Confluent (Kafka, KSQL)
+-   Elastic (Elasticsearch, Kibana)
+-   Databricks (Spark)
 
 ## Meet the team
 
@@ -315,10 +323,14 @@ Contact us! We are available, ready to tackle your ideas!
 ### We are hiring!
 
 Are you a passionate and telented software engineer?  
-Join us! Not a dull day, we promise!
+Join us! Not a dull day, we promise!  
 
 #### Data Dev-Ops
+
 #### Data Pipeline Engineers
+
 #### Data Streaming Engineers
+
 #### API Developers
+
 #### Front-End Developers
