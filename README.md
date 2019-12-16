@@ -305,14 +305,6 @@ Currently, on going partnerships with:
 -   Elastic (Elasticsearch, Kibana)
 -   Databricks (Spark)
 
-## Meet the team
-
-Natalino Busa
-Hien Mai
-
-Investors
-VN Life Singapore
-
 ## Call for action!
 
 ### We like to solve problems
